@@ -1,0 +1,21 @@
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+embedding_1 (Embedding)      (1, None, 256)            1536
+_________________________________________________________________
+gru_1 (GRU)                  (1, None, 512)            1182720
+_________________________________________________________________
+dense_1 (Dense)              (1, None, 6)              3078
+=================================================================
+Total params: 1,187,334
+Trainable params: 1,187,334
+Non-trainable params: 0
+_________________________________________________________________
+Length of text: 240701 characters
+6 unique characters
+
+
+Begin generation:
+
+agacgcatat gaggtgttag ggatgcagta tgtggggtga gggacgaaat agcttttgtc ggactgttca tggcagactg cacagaaagt cattccatgg cagatgctga ctttcagttc agaaagctg ctgccgctgccaatgg taccaagaat ttaagtgagt ctcctttttg gtcttggtaa gaacccaagg ccaatacccc tgaatccctg ccatcccctc tgcaggtgaa gtttgacgta tagtcttaca tgttgatgct gaagcggaac gctttgttcc ctggtcaagcaaat atcggccatc aacaagcacc aggactgccaggaaca ccttggatag tatctagcac agaggatcac tctttacaaatagcgcg tttcccatcc tgatatgatt tcctcttcct atcactgaaa acaaggcct tctgttttaa catttggtacagtg cattgctcaggggag cgaacacaaa aaaagtgggt ctacagagat gttaagaaaa ttgcaaccac tttatgttta tggccgtcct ttatcaatct gtagggcact gaattgagag ggcataaatt ctttcaagaa cacaagctgg tggtgaatct gtataaccag gagaatgaga agcatggacc accctggcctttctcgctcc atttacacct gatgtgtgtt tagaggatct actggctgga ttctatgcaa taagactcac ttagaagcag aacctctgct cacagttcttgt gccgacacag gtgccagcac gtcatgatcc atta actcttgatc gcaggtggct ctttgtcctt cagaggcccc aaagcccttc acaatctcac ttaggttgtt tgacaccccc attgtattat ggtgaattta tcaggccggt gctgtgtggg gaaaagtgct gaagcct
