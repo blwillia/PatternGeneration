@@ -1,0 +1,55 @@
+Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+embedding (Embedding)        (1, None, 256)            16640
+_________________________________________________________________
+gru (GRU)                    (1, None, 1024)           3938304
+_________________________________________________________________
+dense (Dense)                (1, None, 65)             66625
+=================================================================
+Total params: 4,021,569
+Trainable params: 4,021,569
+Non-trainable params: 0
+_________________________________________________________________
+Length of text: 1115394 characters
+65 unique characters
+
+
+Begin generation:
+
+ROMEO: converse, in Mantua.
+
+FRIAR LAURENCE:
+Come out of this ordclaption of the bosom of ourward?
+
+MISTRESS OVERDIO:
+You sellow may made thee by their suits
+Where he we, shall know constab's the news, ye'll not reign one name
+Takeous are gone, but hours like me dead?
+The world consideret would slaughter the trick Ouf Jusin's thousands.
+
+POMPEY:
+Thou content, they guess the blood'd stands.
+
+TRANIO:
+Sir, what's now revenge, you then,
+Since we come and coy and tend to them.
+
+KING EDWARDY BRALURK:
+We must be so false, when yet, or she hands,
+would lay this hands and in our heads
+That thou my Each rebels bear time hath down
+in socreed.
+
+CLIFFORD:
+Art thou forgive the king.
+
+Herow,
+Thou art Deom, the reclous law, my lord,
+Tell the under hour and hair, thou hast
+Moke such a possesicies i' the land of state;
+For give a thousand knaves: the sold nest; where no manied of the foult
+Our words and firmp convey'd to me, you shall not could
+not but the matter; for thy deeds did prodight
+To time he would ni
